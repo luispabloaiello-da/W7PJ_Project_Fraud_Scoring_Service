@@ -66,11 +66,11 @@ fraud_scoring_service/
 └── pyproject.toml
 └── uv.lock
 ```
-## Kanban 
+## Kanban (done)
 - Mauricio Write README.md with Project goal: fraud scoring from any CSV, Business logic: why fraud matters, why ML is needed, Deliverables: pipeline, scores, model comparison.
 - Download Kaggle dataset and save to data/raw/
 
-## To do
+## To do (done)
 - Create inside 01_topic_selection.ipynb: a write and check the theory and labs with short Markdown cells explaining use case of supervised learning, classification, metrics and how could be convinient or not base o this keggle dataset columns that we have.
 - Model plan: Logistic Regression, Decision Tree, Random Forest, KNN Output: this is a Clear onboarding doc for repo and collaborators
 - in 01_topic_selection.ipynb, write: ML lifecycle steps: data → model → evaluation → deployment
