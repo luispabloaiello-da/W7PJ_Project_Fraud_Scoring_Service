@@ -1,4 +1,4 @@
-# src/feature_engineering.py
+# lib/feature_engineering.py
 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler

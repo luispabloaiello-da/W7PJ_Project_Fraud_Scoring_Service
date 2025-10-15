@@ -1,4 +1,4 @@
-# src/validate_input.py
+# lib/validate_input.py
 
 import pandas as pd
 

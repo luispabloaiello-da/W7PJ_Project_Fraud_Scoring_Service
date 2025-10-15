@@ -1,4 +1,4 @@
-# src/clean_data.py
+# lib/clean_data.py
 
 import pandas as pd
 
