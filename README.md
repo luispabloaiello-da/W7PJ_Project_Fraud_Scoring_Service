@@ -46,7 +46,7 @@ This project builds a reusable machine learning pipeline that detects fraudulent
 ## Why Machine Learning  
 Fraud patterns evolve. Static rules fail. ML adapts. This project turns raw data into actionable insight—fast, scalable, and production-ready.
 
-## Repo folder Tree
+## Repo Folder Tree
 ```
 fraud_scoring_service/
 ├── data/
@@ -60,6 +60,7 @@ fraud_scoring_service/
 │ ├── 04_model_training.ipynb       # train classifiers and compare metrics        
 │ └── with_functions.ipynb                 
 ├── lib/
+│ ├── functions.py                  # load functions
 │ ├── validate_input.py             # check for required columns, dtypes, nulls/duplicates
 │ ├── clean_data.py                 # fill missing values, convert/fix Timestamp, drop duplicates
 │ ├── feature_engineering.py        # encode categoricals, scale numerics, derive new features
@@ -70,3 +71,7 @@ fraud_scoring_service/
 ├── pyproject.toml                  # project metadata and dependency definitions
 └── uv.lock                         # locked versions of all dependencies
 ```
+## Slides
+
+- [Presentation]
+([https://docs.google.com/presentation/d/1DCRTmxcjTngXTsZA_19D8t6RzMZyaBRoeajUfCeMsb8/edit?usp=sharing](https://docs.google.com/presentation/d/17YETCwV5f-wDzrivk7pBB3f1i-GaUiZQ3jUsCZw9u-w/edit?slide=id.p#slide=id.p))
