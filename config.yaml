@@ -2,4 +2,5 @@ input_data:
   file1: "../data/raw/synthetic_fraud_dataset.csv"
 
 output_data:
-  file1: "../data/clean/cleaned_data_file.csv"
+  file1: "../data/clean/selected_fraud_dataset.csv"
+  file2: "../data/clean/selected_numeric_features.csv"
