@@ -60,6 +60,7 @@ fraud_scoring_service/
 │ ├── 04_model_training.ipynb       # train classifiers and compare metrics        
 │ └── with_functions.ipynb                 
 ├── lib/
+│ ├── functions.py                  # load functions
 │ ├── validate_input.py             # check for required columns, dtypes, nulls/duplicates
 │ ├── clean_data.py                 # fill missing values, convert/fix Timestamp, drop duplicates
 │ ├── feature_engineering.py        # encode categoricals, scale numerics, derive new features
