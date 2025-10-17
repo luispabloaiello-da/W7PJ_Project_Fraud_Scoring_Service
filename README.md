@@ -88,4 +88,4 @@ fraud_scoring_service/
 
 (https://w7pjprojectfraudscoringservice-rrp8ex7co5rxczfmvvjnkx.streamlit.app/)
 
-You can do the 12,50 ammount 150 balance day operation 1, no previous fraud, is weekend and risk 0.92, do it with linearoversample the change to linear regresion and check how it learns for this.
+You can do the 12,50 ammount 150 balance day operation 1, no previous fraud, is weekend and risk 0.92, do it with LogisticOversample then change to LogisticRegression and check how it gives a 36 % and i the model adaptation examples check how it it learns for all this.
