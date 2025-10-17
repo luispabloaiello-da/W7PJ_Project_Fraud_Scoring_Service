@@ -84,6 +84,9 @@ fraud_scoring_service/
 - [Presentation]
 ([https://docs.google.com/presentation/d/1DCRTmxcjTngXTsZA_19D8t6RzMZyaBRoeajUfCeMsb8/edit?usp=sharing](https://docs.google.com/presentation/d/17YETCwV5f-wDzrivk7pBB3f1i-GaUiZQ3jUsCZw9u-w/edit?slide=id.p#slide=id.p))
 
+## Keggle Dataset
+- (https://www.kaggle.com/datasets/samayashar/fraud-detection-transactions-dataset)
+  
 ## Streamlit App
 
 (https://w7pjprojectfraudscoringservice-rrp8ex7co5rxczfmvvjnkx.streamlit.app/)
