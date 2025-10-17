@@ -39,13 +39,21 @@ This project builds a reusable machine learning pipeline that detects fraudulent
 - Modular Python pipeline  
 - Fraud scores per transaction  
 - Model comparison dashboard  
-- Ready-to-integrate output for analysts or systems
+- Ready-to-integrate output for analysts or systems and learn for the data.
 
 ---
 
 ## Why Machine Learning  
 Fraud patterns evolve. Static rules fail. ML adapts. This project turns raw data into actionable insight—fast, scalable, and production-ready.
 
+## Instructions 
+Just run notebook 04_model_training.ipynb 
+```
+fraud_scoring_service/
+├── data/
+├── notebooks/             
+│     ├── 04_model_training.ipynb       # train classifiers and compare metrics     
+```
 ## Repo Folder Tree
 ```
 fraud_scoring_service/
